@@ -1,0 +1,81 @@
+{
+  "user": [
+    {
+      "name": "Juan Pablo Urgelles",
+      "username": "Juanpi2022",
+      "email": "juan.urgelles92@gmail.com",
+      "password": "Juanpi22",
+      "phone": "+55210657460",
+      "cpf": "066.481.017-92",
+      "gender": "homen",
+      "address": {
+        "cep": "20271-120",
+        "rua": "Avenida Paula Sousa",
+        "numero": "90",
+        "complemento": "apto 24",
+        "estado": "RJ",
+        "bairro": "Maracanã",
+        "cidade": "Rio de Janeiro"
+      },
+      "id": 1
+    },
+    {
+      "name": "Arai Padilla",
+      "username": "Arai",
+      "email": "arai@gmail.com",
+      "password": "Arai22",
+      "phone": "+55210657461",
+      "cpf": "044.481.017-92",
+      "gender": "mulher",
+      "address": {
+        "cep": "20271-120",
+        "rua": "Avenida Paula Sousa",
+        "numero": "85",
+        "complemento": "apto 10",
+        "estado": "RJ",
+        "bairro": "Maracanã",
+        "cidade": "Rio de Janeiro"
+      },
+      "id": 2
+    },
+    {
+      "name": "Giovanni MArques",
+      "username": "gmarques",
+      "email": "gmarquesp@outlook.com",
+      "password": "giovanni22",
+      "phone": "21974578388",
+      "cpf": "152.992.427-86",
+      "gender": "homen",
+      "address": {
+        "cep": "22641-004",
+        "rua": "Estrada da Barra da Tijuca",
+        "numero": "3817",
+        "complemento": "de 1117 ao fim - lado ímpar",
+        "estado": "RJ",
+        "bairro": "Itanhangá",
+        "cidade": "Rio de Janeiro"
+      },
+      "id": 3
+    }
+  ],
+  "lista_espera": [
+    {
+      "name": "Juan Pablo Urgelles",
+      "doctor": "Doutora Alice Oliveira Silva",
+      "consulta": "Dermatologia",
+      "id": 1
+    },
+    {
+      "name": "Felix Molina",
+      "doctor": "Doutora Nicole Alves Goncalves",
+      "consulta": "Ortopedia",
+      "id": 2
+    },
+    {
+      "name": "Giovanni MArques",
+      "doctor": "Doutor Kauan Oliveira Cardoso",
+      "consulta": "Oncologia",
+      "id": 3
+    }
+  ]
+}
